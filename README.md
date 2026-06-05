@@ -19,18 +19,18 @@ The application implements a polyglot architectural pattern connecting a high-sp
 
 ```mermaid
 graph TD
-    subgraph Frontend Client (Next.js Spa)
+    subgraph Client ["Frontend Client (Next.js SPA)"]
         A[Dashboard View] -->|Upload CSV File| B[Bulk Upload Interface]
         A -->|Interactive Form| C[Single Sample Input]
     end
 
-    subgraph Backend Server (Next.js API Routes)
+    subgraph Server ["Backend Server (Next.js API Routes)"]
         B -->|POST request| D[api/analyze/route.ts]
         D -->|Saves CSV| E[(uploads/soildata.csv)]
         D -->|Spawn Child Process| F[Python CLI Execution]
     end
 
-    subgraph Scientific ML Engine (Python)
+    subgraph Engine ["Scientific ML Engine (Python)"]
         F -->|Triggers| G[model.py]
         G -->|Reads CSV| E
         G -->|Savitzky-Golay Filter| H[Spectral Preprocessing]
