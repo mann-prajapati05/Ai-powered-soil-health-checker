@@ -191,9 +191,13 @@ To run bulk analysis successfully, your CSV file should contain spectrometer rea
 
 ---
 
-## 💼 Why Recruiters Will Love This Codebase
+## 👥 Team & Authors
 
-1.  **Polyglot Full-Stack Integration**: Demonstrates command-line interface execution piping from Node.js runtime environments (`child_process.spawn`) into raw Python files, sharing standard input/output streams dynamically.
-2.  **Scientific Rigor**: Showcases deep familiarity with data science and machine learning concepts—from signal processing (Savitzky-Golay) to dimensional compression (PCA) and multi-target ensemble regression models.
-3.  **Modern Web Practices**: Fully typesafe codebase using TypeScript, Next.js App Router API design, and modular state management with interactive, responsive React components.
-4.  **Clean Code & Visual Excellence**: Employs industry-standard design patterns, modular architecture, responsive layout structures, and high-quality UX visualization via Recharts.
+
+| Name | Email | University | Grad Year |
+| :--- | :--- | :--- | :---: |
+| **Ayush Prajapati** (Leader) | ayushprajapati15806@gmail.com | Nirma University | 2027 |
+| **Mannkumar Prajapati** | mannprajapati0284@gmail.com | Nirma University | 2027 |
+| **Vivek Prajapati** | prajapativivek93165@gmail.com | Nirma University | 2027 |
+| **Tirth Patel** | tirthpatel9606@gmail.com | Nirma University | 2027 |
+| **Vishv Sheta** | vishv1511@gmail.com | Nirma University | 2027 |
