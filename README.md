@@ -198,6 +198,5 @@ To run bulk analysis successfully, your CSV file should contain spectrometer rea
 | :--- | :--- | :--- | :---: |
 | **Ayush Prajapati** (Leader) | ayushprajapati15806@gmail.com | Nirma University | 2027 |
 | **Mannkumar Prajapati** | mannprajapati0284@gmail.com | Nirma University | 2027 |
-| **Vivek Prajapati** | prajapativivek93165@gmail.com | Nirma University | 2027 |
 | **Tirth Patel** | tirthpatel9606@gmail.com | Nirma University | 2027 |
 | **Vishv Sheta** | vishv1511@gmail.com | Nirma University | 2027 |
